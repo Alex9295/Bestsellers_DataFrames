@@ -55,7 +55,7 @@ Install the required libraries using pip install pandas.
 
 Open the Jupyter Notebook and run the cells to explore the dataset.
 
-# Example Output
+# Example Output:
 The notebook includes snippets of the dataset, such as:
 
 Top 5 bestsellers (e.g., "The Psychology of Money" by Morgan Housel).
