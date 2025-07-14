@@ -25,8 +25,8 @@ Rating: Customer rating (out of 5, may contain missing values)
 
 Reviews: Number of customer reviews (may contain missing values)
 
-Key Features
-Data Inspection:
+# Key Features
+# Data Inspection:
 
 Displayed the first 5, 19, and last 2, 5 rows of the dataset.
 
